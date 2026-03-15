@@ -7,7 +7,7 @@ This project demonstrates the implementation and evaluation of classification mo
 
 The project is implemented using Python and the scikit-learn library.
 
-# Objectives
+## Objectives
 
 Implement Logistic Regression for binary classification
 
@@ -21,7 +21,7 @@ Handle imbalanced data using class weights
 
 Compare performance with Decision Tree Classifier
 
-# Models Implemented
+## Models Implemented
 
 Logistic Regression
 
@@ -29,7 +29,7 @@ Logistic Regression (with class_weight='balanced')
 
 Decision Tree Classifier
 
-# Evaluation Metrics Used
+## Evaluation Metrics Used
 
 Confusion Matrix
 
@@ -45,7 +45,7 @@ ROC Curve
 
 AUC Score
 
-# Visualizations
+## Visualizations
 
 Confusion Matrix Heatmap
 
@@ -53,11 +53,11 @@ ROC Curve
 
 Model Comparison ROC Plot
 
-# Dataset
+## Dataset
 
 The project uses the Breast Cancer dataset available in scikit-learn.
 
-# Key Learnings
+## Key Learnings
 
 Accuracy is not always reliable for imbalanced datasets
 
@@ -67,7 +67,7 @@ ROC-AUC provides better insight into model performance
 
 Class weights help improve performance on minority classes
 
-# Technologies Used
+## Technologies Used
 
 Python
 
