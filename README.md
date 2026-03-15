@@ -1,7 +1,7 @@
 # ml-classification-metrics-analysis
 End-to-end binary classification project demonstrating model evaluation techniques including Precision, Recall, F1-score, ROC Curve, AUC, and class imbalance handling.
 
-# Project Overview
+## Project Overview
 
 This project demonstrates the implementation and evaluation of classification models using machine learning techniques. The focus is on understanding model performance metrics and handling imbalanced datasets.
 
